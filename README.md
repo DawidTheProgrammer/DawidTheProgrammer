@@ -1,0 +1,3 @@
+- Hi, I’m Dawid 👋
+- I'm 15 years old from Poland.
+- I'm currently planning to learn some first programming language like Python or Java
